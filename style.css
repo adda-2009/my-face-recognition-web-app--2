@@ -1,0 +1,25 @@
+body
+{
+background-color: lightpink ;
+color: black ;
+}
+.heading
+{
+width: 80% ;
+font-size: 22px ;
+}
+.Name_of_object
+{
+color: yellow ;
+}
+#preview ,#output
+{
+color: lightpink ;
+}
+#camera,#result
+{
+border-width: 2px ;
+width: 350px ;
+height: 300px ;
+border-style: dashed ;
+}
